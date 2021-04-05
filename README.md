@@ -1,17 +1,49 @@
-# Study Partner
-STUDY PARTNER is a free, fully-featured app for Android Users. One-stop solution for organizing and maintaining notes, attendance, reminders, and much more. STUDY PARTNER helps you organize your student life just at your fingertips. Coherent and utilitarian tool for storing notes. A true partner a student need. An application made for students by students.
+<p align="center">
+<img src="https://github.com/krayong/Study_Partner/blob/master/app/src/main/app_logo-playstore.png" alt="Get it on Google Play" height="90"/>
+</p>
 
-![Logo](https://github.com/krayong/Study_Partner/blob/master/app/src/main/app_logo-playstore.png)
+<h1 align="center"> Study Partner</h1>
 
- Download it now at https://play.google.com/store/apps/details?id=com.studypartner&hl=en_IN
+**STUDY PARTNER** is a free, fully-featured app for Android Users. One-stop solution for organizing and maintaining notes, attendance, reminders, and much more. STUDY PARTNER helps you organize your student life just at your fingertips. Coherent and utilitarian tool for storing notes. A true partner a student need. An application made for students by students.
+
+> Download the App from the Play Store by clicking on the icon below
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.studypartner" target="_blank">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
+</p>
+
+<div style="text-align:center">
+
+<br>
+
+[![GitHub forks](https://img.shields.io/github/forks/krayong/Study_Partner?label=Fork&style=social)](https://github.com/krayong/Study_Partner/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/krayong/Study_Partner?label=Star&style=social)](https://github.com/krayong/Study_Partner/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/krayong/Study_Partner?style=social&label=Watch)](https://github.com/krayong/Study_Partner/watchers)
+<br>
+
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/krayong/Study_Partner)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/krayong/Study_Partner)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](https://github.com/krayong/Study_Partner/issues)
+<br>
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GitHub release](https://img.shields.io/github/release/krayong/Study_Partner)](https://github.com/krayong/Study_Partner/releases/) 
+[![GitHub issues](https://img.shields.io/github/issues/krayong/Study_Partner?style=plastic)](https://github.com/krayong/Study_Partner/issues)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/krayong/Study_Partner)](https://github.com/krayong/Study_Partner/pulls/)
+[![GitHub contributors](https://img.shields.io/github/contributors/krayong/Study_Partner.svg)](https://GitHub.com/krayong/Study_Partner/graphs/contributors/)
+<br>
+
+[![discord](https://img.shields.io/badge/Chat-on%20discord-red)](https://discord.com/channels/811724426965811210/815030597843419156)
+
+</div>
 
 ### Screenshots
 <p float="left">
-	<img src="https://github.com/krayong/Study_Partner/blob/master/Home%20Screen.jpg" alt="Home Screen" width="150">
-	<img src="https://github.com/krayong/Study_Partner/blob/master/File%20Screen.jpg" alt="File Screen" width="150">
-	<img src="https://github.com/krayong/Study_Partner/blob/master/Attendance%20Screen.jpg" alt="Attendance Screen" width="150">
-	<img src="https://github.com/krayong/Study_Partner/blob/master/Reminder%20Screen.jpg" alt="Reminder Screen" width="150">
-	<img src="https://github.com/krayong/Study_Partner/blob/master/Star%20Screen.jpg" alt="Star Screen" width="150">
+	<img src="https://github.com/krayong/Study_Partner/blob/master/screenshots/Home%20Screen.jpg" alt="Home Screen" width="150">
+	<img src="https://github.com/krayong/Study_Partner/blob/master/screenshots/File%20Screen.jpg" alt="File Screen" width="150">
+	<img src="https://github.com/krayong/Study_Partner/blob/master/screenshots/Attendance%20Screen.jpg" alt="Attendance Screen" width="150">
+	<img src="https://github.com/krayong/Study_Partner/blob/master/screenshots/Reminder%20Screen.jpg" alt="Reminder Screen" width="150">
+	<img src="https://github.com/krayong/Study_Partner/blob/master/screenshots/Star%20Screen.jpg" alt="Star Screen" width="150">
 </p>
 
 ## Tech Stack
@@ -65,3 +97,16 @@ In order to use this demo application you must first have installed:
 The recommended IDE for Android development is [Android Studio](https://developer.android.com/studio) because it is developed and constantly updated by Google, has good support for Gradle, contains a range of useful monitoring and analysis tools, and is fully tailored for Android development.
 
 Avoid adding Android Studio's specific configuration files, such as .iml files to the version control system as these often contain configurations specific to your local machine, which won't work for your colleagues.
+
+## Contributors:
+### Credits goes to these people:✨
+
+<table>
+<tr>
+<td>
+   <a href="https://github.com/krayong/Study_Partner/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=krayong/Study_Partner" />
+</a>
+</td>
+</tr>
+</table>
